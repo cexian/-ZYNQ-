@@ -2,4 +2,4 @@
 
 Oversea users can download reference data easier as original website is blocked 
 
-海外用户可以更轻松的下载学习资料
+海外用户可以更轻松的下载领航者ZYNQ相关开发学习资料
